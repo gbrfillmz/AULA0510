@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AULA0510</string>
+    <string name="button_label">Enviar</string>
 </resources>
